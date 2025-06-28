@@ -1,5 +1,5 @@
 #  almacenar las reservas
-
+# comentario de prueba
 nombre  = ""
 frase_secreta  = ""
 decision = ""
